@@ -13,8 +13,7 @@ env.required([
 
 module.exports = {
     sendToken,
-    updatePass,
-    changeP
+    updatePass
 }
 
 async function sendToken(body){
